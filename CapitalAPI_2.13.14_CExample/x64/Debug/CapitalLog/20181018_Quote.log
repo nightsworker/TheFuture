@@ -1,0 +1,54 @@
+-----------------------------------------------------------------
+[7708] 2018/10/18 15:23:39.605 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005)
+[7708] 2018/10/18 15:23:39.605 Divide StockNo {TX00}
+[7708] 2018/10/18 15:23:39.605 Stock Not Exist 
+[7708] 2018/10/18 15:23:39.605 Divide StockNo {MTX00}
+[7708] 2018/10/18 15:23:39.605 Stock Not Exist 
+[7708] 2018/10/18 15:23:39.605 Divide StockNo {6005}
+[7708] 2018/10/18 15:23:39.605 Stock Not Exist 
+[7708] 2018/10/18 15:23:40.987 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005)
+[7708] 2018/10/18 15:23:40.987 Divide StockNo {TX00}
+[7708] 2018/10/18 15:23:40.987 Stock Not Exist 
+[7708] 2018/10/18 15:23:40.988 Divide StockNo {MTX00}
+[7708] 2018/10/18 15:23:40.988 Stock Not Exist 
+[7708] 2018/10/18 15:23:40.988 Divide StockNo {6005}
+[7708] 2018/10/18 15:23:40.988 Stock Not Exist 
+[7708] 2018/10/18 15:24:00.678 SKQuoteLib_EnterMonitor IP¡Gsrvsolace-fg.capital.com.tw
+[7708] 2018/10/18 15:24:33.110 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[7708] 2018/10/18 15:24:33.286 market(0)  Ready!
+[7708] 2018/10/18 15:24:33.294 market(1)  Ready!
+[7708] 2018/10/18 15:24:33.303 market(3)  Ready!
+[7708] 2018/10/18 15:24:33.303 market(2)  Ready!
+[7708] 2018/10/18 15:24:33.314 market(2)  Ready!
+[7708] 2018/10/18 15:24:33.314 market(3)  Ready!
+[7708] 2018/10/18 15:24:33.314 market(4)  Ready!
+[7708] 2018/10/18 15:24:33.682 Market Info is OK!
+[7708] 2018/10/18 15:24:33.814 Catalog info is OK!
+[7708] 2018/10/18 15:24:39.374 SKQuoteLib_RequestStocks (-1 , TX00,MTX00,6005)
+[7708] 2018/10/18 15:24:39.374 Divide StockNo {TX00}
+[7708] 2018/10/18 15:24:39.374 Add Basket MarketNo¡G2 StockIdx¡G100
+[7708] 2018/10/18 15:24:39.374 Divide StockNo {MTX00}
+[7708] 2018/10/18 15:24:39.374 Add Basket MarketNo¡G2 StockIdx¡G107
+[7708] 2018/10/18 15:24:39.374 Divide StockNo {6005}
+[7708] 2018/10/18 15:24:39.374 Stock Not Exist 
+[7708] 2018/10/18 15:24:39.374 Return PageNo¡G 1 
+[7708] 2018/10/18 15:24:55.902 SKQuoteLib_RequestStocks (1 , TX00,MTX12,MTX11)
+[7708] 2018/10/18 15:24:55.902 Divide StockNo {TX00}
+[7708] 2018/10/18 15:24:55.902 Add Basket MarketNo¡G2 StockIdx¡G100
+[7708] 2018/10/18 15:24:55.902 Divide StockNo {MTX12}
+[7708] 2018/10/18 15:24:55.902 Add Basket MarketNo¡G2 StockIdx¡G109
+[7708] 2018/10/18 15:24:55.902 Divide StockNo {MTX11}
+[7708] 2018/10/18 15:24:55.902 Add Basket MarketNo¡G2 StockIdx¡G108
+[7708] 2018/10/18 15:24:55.902 Return PageNo¡G 1 
+[7708] 2018/10/18 15:25:33.264  SKQuoteLib_RequestTicks ( 0 , MTX00 )
+[7708] 2018/10/18 15:25:33.264 Return PageNo¡G 0 
+[7708] 2018/10/18 15:25:42.658  SKQuoteLib_RequestLiveTick ( 2 , MTX00 )
+[7708] 2018/10/18 15:25:42.659 Return PageNo¡G 1 
+[7708] 2018/10/18 15:27:12.093 SKQuoteLib_GetKLine(1,MTX00 )
+[7708] 2018/10/18 15:27:16.685 SKQuoteLib_GetKLine(1,MTX00 )
+[7708] 2018/10/18 15:27:19.879 SKQuoteLib_GetKLine(1,MTX00 )
+[7708] 2018/10/18 15:27:24.464 SKQuoteLib_GetKLine(4,MTX00 )
+[7708] 2018/10/18 15:27:27.196 SKQuoteLib_GetKLine(4,MTX00 )
+[7708] 2018/10/18 15:27:29.781 SKQuoteLib_GetKLine(4,MTX00 )
+[7708] 2018/10/18 15:28:29.560 SKQuoteLib_RequestBool
+[7708] 2018/10/18 15:28:29.560  SKQuoteLib_RequestBool (  MTX00 )
